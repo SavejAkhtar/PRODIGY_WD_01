@@ -19,3 +19,17 @@ Create a **responsive and interactive navigation bar** that remains fixed on the
 - HTML5
 - CSS3
 - JavaScript (ES6)
+
+## 🚀 Live Preview
+
+👉 [GitHub Pages Live Demo](https://savejakhtar.github.io/PRODIGY_WD_01/)
+
+
+
+---
+
+## 🔗 Connect with Me
+
+- GitHub: https://github.com/SavejAkhtar
+- LinkedIn: www.linkedin.com/in/savej-akhtar-profile
+
